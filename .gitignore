@@ -1,0 +1,6 @@
+__pycache__/
+cache-directory/
+env_tutorial/
+*.pyc
+.DS_Store
+.env
